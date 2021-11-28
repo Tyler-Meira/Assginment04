@@ -1,0 +1,25 @@
+{
+    "cars":[
+       {
+          "make":"Acura",
+          "model":"MDX",
+          "year":"2022",
+          "color":"Black",
+          "price":"57,900"
+       },
+       {
+          "make":"Audi",
+          "model":"A4",
+          "year":"2022",
+          "color":"Red",
+          "price":"43,300"
+       },
+       {
+          "make":"BMW",
+          "model":"I4",
+          "year":"2022",
+          "color":"Orange",
+          "price":"54990"
+       }
+    ]
+ }
