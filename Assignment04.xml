@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+   <car>
+      <make>Cadillac</make>
+      <model>XT5</model>
+      <year>2022</year>
+      <color>Green</color>
+      <price>45,700</price>
+   </car>
+   <car>
+      <make>Cheverolet</make>
+      <model>Bolt</model>
+      <year>2022</year>
+      <color>White</color>
+      <price>38,198</price>
+   </car>
+   <car>
+      <make>Ford</make>
+      <model>Maverick</model>
+      <year>2022</year>
+      <color>Blue</color>
+      <price>25,900</price>
+   </car>
+</cars>
